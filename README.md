@@ -6,7 +6,7 @@ I'm primarily interested in **full-stack development**. My tech stack includes P
 
 I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as apps that have a global user base. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 
-Outside of work, I’m passionate about exploring advancements in science and technology. I also play a lot of video games and my current mission is to be at least presentable at Valorant(still a Sage, but working on becoming a Raze main).
+Outside of work, I’m passionate about exploring advancements in science and technology. I also play a lot of video games and my current mission is to, at least be presentable at Valorant(still a Sage, but working on becoming a Raze main).
 
 #### Let's connect!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@saramahesh)
