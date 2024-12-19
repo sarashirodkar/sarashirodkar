@@ -9,5 +9,4 @@ I'm fascinated by large-scale, high-impact products and have worked on industry-
 Outside of work, I’m passionate about exploring advancements in science and technology. I also play a lot of video games and my current mission is to, at least be presentable at Valorant(still a Sage, but working on becoming a Raze main).
 
 #### Let's connect!
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@saramahesh)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/saramshirodkar/)
