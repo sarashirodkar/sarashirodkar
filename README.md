@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Sara**], a software engineer from New York, US.
+I'm **Sara**, a software engineer from New York, US.
 
 I'm primarily interested in **full-stack development**: Python, Java, Go, Django, Flask, Spring Boot
 
