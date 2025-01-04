@@ -4,7 +4,7 @@ I'm **Sara**, a software engineer from New York, US.
 
 I'm primarily interested in the full-stack development. My tech stack includes Python, Java, Go, Django, Flask, Spring Boot, and SQL.
 
-I specialize in building scalable systems and data-driven applications. My experience spans developing metrics management tools, predictive models for YouTube content analysis, and automating high-traffic customer-facing systems. Passionate about creating large-scale, impactful products, I have contributed to major feature launches and industry-leading services, enhancing global user experiences. Let's build something innovative together!
+I specialize in building scalable systems and data-driven applications. My experience spans developing metrics management tools, predictive models for content analysis, and automating high-traffic customer-facing systems. Passionate about creating large-scale, impactful products, I have contributed to major feature launches and industry-leading services, enhancing global user experiences. 
 
 Outside of work, I’m passionate about exploring advancements in science and technology. I also play a lot of video games and my current mission is to, at least be presentable at Valorant(still a Sage, but working on becoming a Raze main).
 
