@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm **Sara**, a software engineer based in New York City. I work with distributed systems at Microsoft in Azure Core, where I contribute to scaling storage operations to a near limitless capacity.
+I'm **Sara**, a software engineer based in New York City. I work at Microsoft, where I contribute to scaling storage operations to a near limitless capacity.
 
 I'm primarily interested in full-stack development. My tech stack includes Python, Java, Go, Django, Flask, Spring Boot, and SQL.
 
